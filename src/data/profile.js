@@ -1,5 +1,3 @@
-import projects from "./projects";
-
 const profile = {
   name: "Rohit Kumar Saini",
 
