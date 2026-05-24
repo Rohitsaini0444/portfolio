@@ -18,6 +18,7 @@ const projects = [
     title: 'DevConnect',
     description: 'Developer networking platform with authentication, chat, and matching features.',
     stack: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
+    gitHub: 'https://github.com/Rohitsaini0444/devMatch',
   },
 ];
 
