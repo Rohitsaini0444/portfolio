@@ -20,8 +20,8 @@ const experiences = [
     company: 'CodeBasera Technologies',
     duration: 'Feb 2020 – Apr 2022',
     description:
-      'Built scalable backend systems for the Mera Samaj social networking platform including user feeds, notifications, and engagement modules. Designed MongoDB data models for high-traffic workloads, managed AWS infrastructure using EC2 and S3, and optimized application performance for growing user demand.',
-  },
+      'Developed responsive and reusable React.js components for user profiles, feeds, notifications and interactive social features.Implemented React Hooks, state management, API integration, and reusable UI patterns to deliver a smooth and scalable frontend experience. Optimized frontend performance through efficient component rendering, API handling, and state management. Designed high-performance data models in MongoDB to support concurrent user activity. Developed and integrated REST APIs and real-time features between the React frontend and backend services. Deployed production applications on AWS, integrating external services and APIs'
+ },
 
   {
     role: 'Software Engineer',
